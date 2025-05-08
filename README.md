@@ -3,7 +3,7 @@
 **Navigating Knowledge in the Metaverse**  
 
 <div align="center">
-  <img src="/assets/150535753/5dd45712-3ce7-4b59-b390-e032cb51d463" alt="Vidyalaya Logo" width="200"/>
+<img src="https://github.com/SagarTeotia1/Vidyalaya/assets/150535753/5dd45712-3ce7-4b59-b390-e032cb51d463" alt="Vidyalaya Logo" width="200"/>
 </div>  
 
 Vidyalaya redefines education by merging **gamified learning, VR/AR/MR experiences, and AI-driven personalization** to create immersive, accessible, and inclusive classrooms in the metaverse. Designed to bridge engagement gaps and democratize quality education for all.  
