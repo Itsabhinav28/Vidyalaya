@@ -66,16 +66,6 @@ A **metaverse-powered ecosystem** offering:
 - 🛠️ **Design Flexibility**: Customizable avatars, classrooms, and learning paths.  
 - 🔒 **Privacy-First**: Decentralized data storage and parental control tools.  
 
-## Project Status  
-✅ **55% Completed**  
-- Core features built: Virtual classrooms, AR encyclopedia, chatbot, authentication.  
-- Next phases: Testing, scalability improvements, and adding premium metaverse worlds.  
-
-## Team  
-**GreedyGeeks**  
-- **Sagar Teotia**: B.Tech 1st Year (Metaverse Development)  
-- **Abhinav Mishra**: B.Tech 1st Year (AI & Backend)  
-
 **Join the revolution where learning transcends screens—explore knowledge in the metaverse!**  
 
 Made with ❤️ for a future where education is limitless.  
